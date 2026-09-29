@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Lab4 - lab4_promociones" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="lab4_promociones.Main" />
+    <module name="InterfacesFuncionalesJava" />
+    <option name="VM_PARAMETERS" value="-Duser.language=es -Duser.country=CO -Dstdout.encoding=UTF-8" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,15 @@
+# Salida de compilación
+out/
+*.class
+
+# IntelliJ IDEA (se versionan misc, modules, encodings y runConfigurations)
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/tasks.xml
+.idea/uiDesigner.xml
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
